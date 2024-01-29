@@ -1,2 +1,0 @@
-# SmallReactProject
-Test
