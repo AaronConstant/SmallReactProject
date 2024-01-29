@@ -1,0 +1,38 @@
+.card {
+  border: 1px solid hsla(113, 35%, 36%, 0.261);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px hsla(0, 43%, 1%, 0.385);
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  max-width: 250px;
+  display: inline-block;
+}
+
+.card .card-image {
+  max-width: 80%;
+  height: auto;
+  border-radius: 50%;
+}
+
+.card .card-title {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  color: hsl(0, 0%, 20%);
+}
+
+.card .card-text {
+  font-family: Arial, Helvetica, sans-serif;
+  color: hsl(0, 0%, 50%);
+}
+
+/* .button {
+  background-color: hsl(200, 100%, 50%);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+
+
+} */
